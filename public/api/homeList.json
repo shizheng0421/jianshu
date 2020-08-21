@@ -1,0 +1,24 @@
+{
+	"success": true,
+	"data": [{
+			"id": 4,
+			"title": "WHERE THE CRAWDADS SING",
+			"desc": "In a quiet town on the North Carolina coast in 1969, a young woman who survived alone in the marsh becomes a murder suspect.",
+			"imgUrl": "https://s1.nyt.com/du/books/images/9780735219090.jpg"
+		}, {
+			"id": 5,
+			"title": "SUCKER PUNCH",
+			"desc": "The 27th book in the Anita Blake, Vampire Hunter series. The evidence that a wereleopard killed his uncle doesn’t add up.",
+			"imgUrl": "https://s1.nyt.com/du/books/images/9781984804433.jpg"
+		}, {
+			"id": 6,
+			"title": "LIVE FREE OR DIE",
+			"desc": "The Fox News host offers his assessment on what is at stake in the 2020 election.",
+			"imgUrl": "https://s1.nyt.com/du/books/images/9781982149970.jpg"
+		}, {
+			"id": 7,
+			"title": "ON TYRANNY",
+			"desc": "Twenty lessons from the 20th century about the course of tyranny.",
+			"imgUrl": "nhttps://s1.nyt.com/du/books/images/9780804190114.jpg"
+		}]
+}

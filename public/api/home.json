@@ -1,0 +1,31 @@
+{
+	"success":true,
+	"data":{
+		"topicList":[{
+			"id":1,
+			"title":"Hot Topic",
+			"imgUrl":"https://gosw.org/wp-content/uploads/2019/05/Hot-Topic.png"
+		    },{
+			"id":2,
+			"title":"Photo",
+			"imgUrl":"https://images-na.ssl-images-amazon.com/images/I/51lR9DplVWL.jpg" 
+		}],
+
+		"articleList":[{
+			"id":1,
+			"title":"Edward P. Jones’s Carefully Quantified Literary World",
+			"desc":"In the second installment of 'The Americans', his series on overlooked or under-read writers, A.O. Scott considers the scrupulously documented, meticulously observed fiction of Edward P. Jones.",
+			"imgUrl":"https://static01.nyt.com/images/2020/08/16/books/review/16Scott_Americans_Jones/16Scott_Americans_Jones-videoLarge-v3.jpg"
+		    },{
+			"id":2,
+			"title":"Why the Working Class Votes Against Its Economic Interests",
+			"desc":"Two new books, Robert B. Reich’s “The System” and Zephyr Teachout’s “Break ’Em Up,” examine the impact of economic inequality in America.",
+			"imgUrl":"https://static01.nyt.com/images/2020/08/16/books/review/16Madrick-WEB/16Madrick-WEB-jumbo.jpg" 
+		    },{
+			"id":3,
+			"title":"How the Battle for Women’s Suffrage Played Out in the Pages of the Book Review",
+			"desc":"What did our critics think of the histories, memoirs and novels that explored the road to the 19th Amendment?",
+			"imgUrl":"https://static01.nyt.com/images/2020/08/10/obituaries/ BookReviewSuffrage1/BookReviewSuffrage1-thumbStandard.jpg" 
+	}]
+	}
+}
